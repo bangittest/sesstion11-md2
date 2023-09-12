@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "email": "a@gmail.com",
+      "password": "$2a$10$SAGPgQNawk1bkdu2/358F.UYubnigA0fMkzh5eWLrKXSNo2PGerNO",
+      "user_name": "",
+      "address": "ha noi",
+      "dateOfBirthday": "2023-09-12",
+      "id": 2
+    },
+    {
+      "email": "d@gmail.com",
+      "password": "$2a$10$/cbmpmcCcTCa5YaGXLyRkOr8.4TXbq/aCLaHafhjw6D8cqk/PnDDy",
+      "user_name": "",
+      "address": "dinh thon",
+      "dateOfBirthday": "2023-09-12",
+      "id": 3
+    },
+    {
+      "email": "0968783032@ddd",
+      "password": "$2a$10$8N0oGX2Brd72120gBvCS8Oj7nOFAMSUu2bDIw6uzzvdD.qUJWghwS",
+      "user_name": "",
+      "address": "dinh thon",
+      "dateOfBirthday": "2023-09-12",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "product_name": "buoi 5 ",
+      "price": 3003,
+      "from": "china",
+      "id": 3
+    },
+    {
+      "product_name": "grhdghg",
+      "price": "464534",
+      "from": "gdfthrgefwdvnbmbvbcvx",
+      "id": 4
+    },
+    {
+      "product_name": "grhdghg",
+      "price": "464534",
+      "from": "gdfhgfhfdgsdfadafghmnhgfhfdgsdfs",
+      "id": 5
+    },
+    {
+      "product_name": "445324wer",
+      "price": "5432",
+      "from": "terwejkjytryet",
+      "id": 6
+    }
+  ]
+}
